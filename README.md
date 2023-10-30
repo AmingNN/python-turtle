@@ -1,2 +1,2 @@
 # python-turtle
-python的turtle(海龟)库
+用python的turtle(海龟)库的一些绘画
